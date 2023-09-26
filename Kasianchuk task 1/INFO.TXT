@@ -1,0 +1,4 @@
+1 Kiev 10:00 19:00 9:0 time left Less then 10 hours
+2 Ternopil 10:00 23:00 13:0 time left More then 10 hours
+5 Shepetivka 15:00 19:00 4:0 time left Less then 10 hours
+6 Kiev 20:50 23:15 3:-35 time left Less then 10 hours
